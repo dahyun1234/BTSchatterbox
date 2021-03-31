@@ -1,6 +1,244 @@
-## Welcome to GitHub Pages
+## 교육용챗봇실습
 
-You can use the [editor on GitHub](https://github.com/dahyun1234/BTSchatterbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+### Markdown
+
+11
+
+
+
+12
+
+50
+
+13
+
+
+
+14
+
+
+
+15
+
+
+
+16
+
+51
+
+17
+
+
+
+18
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+19
+
+
+
+20
+
+52
+
+21
+
+
+
+22
+
+
+
+23
+
+
+
+24
+
+53
+
+25
+
+
+
+26
+
+```markdown
+
+27
+
+
+
+28
+
+54
+
+29
+
+
+
+30
+
+Syntax highlighted code block
+
+31
+
+
+
+32
+
+55
+
+33
+
+
+
+34
+
+
+
+35
+
+
+
+36
+
+56
+
+37
+
+
+
+38
+
+# Header 1
+
+39
+
+
+
+40
+
+57
+
+41
+
+
+
+42
+
+## Header 2
+
+43
+
+
+
+44
+
+58
+
+45
+
+
+
+46
+
+### Header 3
+
+47
+
+
+
+
+
+### Markdown
+
+50
+
+
+
+51
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+52
+
+
+
+53
+
+```markdown
+
+54
+
+Syntax highlighted code block
+
+55
+
+
+
+56
+
+# Header 1
+
+57
+
+## Header 2
+
+58
+
+### Header 3
+
+59
+
+
+
+60
+
+- Bulleted
+
+61
+
+- List
+
+62
+
+
+
+63
+
+1. Numbered
+
+64
+
+2. List
+
+65
+
+
+
+66
+
+**Bold** and _Italic_ and `Code` text
+
+67
+
+
+
+68
+
+[Link](url) and ![Image](src)
+
+69
+
+```
+
+70
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
